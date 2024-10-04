@@ -62,7 +62,9 @@
 
 ## Actual Effects
 > [!NOTE]
-> Below are screenshots from the line tracking and obstacle avoidance operations.
+> Below are screenshots from the line tracking and obstacle avoidance operations. If you are interested, you can watch the following videos:
+> [Line Tracking Video](https://github.com/DarrylXzq/Arduino/blob/main/TrackingVideo.mp4)
+> [Obstacle Avoidance Video](https://github.com/DarrylXzq/Arduino/blob/main/ObstacleAvoidanceVideo.mp4)
 <div align="left">
   <img src="https://github.com/user-attachments/assets/8b6cc3d5-2ca0-49a2-80c5-c421be48034a" >
   <img src="https://github.com/user-attachments/assets/ff5f3b77-7562-4ead-a903-2fbe7da476dc" >
