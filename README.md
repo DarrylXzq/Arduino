@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/-Bluetooth-orange.svg">
   <img src="https://img.shields.io/badge/-PID-purple.svg">
   <img src="https://img.shields.io/badge/-HC--SR04-yellow.svg">
+  <img src="https://img.shields.io/badge/-C++-red.svg">
 </div>
 
 ## Project Overview
